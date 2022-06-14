@@ -12,7 +12,7 @@ Extract colors from an image like a human would do.
 Via Composer
 
 ``` bash
-$ composer require league/color-extractor:0.3.*
+$ composer require cineman/color-extractor:^1.0
 ```
 
 ## Usage
