@@ -1,5 +1,5 @@
 {
-    "name": "league/color-extractor",
+    "name": "cineman/color-extractor",
     "type": "library",
     "description": "Extract colors from an image as a human would do.",
     "keywords": ["image", "color", "extract", "palette", "human"],
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.4.0",
         "ext-gd": "*"
     },
     "require-dev": {
