@@ -1,18 +1,18 @@
 {
-    "name": "cineman/color-extractor",
+    "name": "chipx/color-extractor",
     "type": "library",
     "description": "Extract colors from an image as a human would do.",
     "keywords": ["image", "color", "extract", "palette", "human"],
     "homepage": "https://github.com/thephpleague/color-extractor",
     "license": "MIT",
     "replace": {
-        "matthecat/colorextractor": "*"
+        "chipx/colorextractor": "*"
     },
     "authors": [
         {
-            "name": "Mathieu Lechat",
-            "email": "math.lechat@gmail.com",
-            "homepage": "http://matthecat.com",
+            "name": "ChipX",
+            "email": "chipx@mail.ru",
+            "homepage": "",
             "role": "Developer"
         }
     ],
